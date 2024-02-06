@@ -1,1 +1,1 @@
-# Telecom-Churn
+# Telecom-Churn Case study
